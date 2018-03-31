@@ -1,5 +1,5 @@
-const FizzBuzz = (num) => {
-
-};
-
-export default FizzBuzz;
+export const search = () => {};
+export const searchAlbuns = () => {};
+export const searchArtists = () => {};
+export const searchTracks = () => {};
+export const searchLists = () => {};
